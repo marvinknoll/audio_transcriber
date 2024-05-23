@@ -38,6 +38,15 @@ Install the necessary dependencies using `pdm`:
 pdm install
 ```
 
+### 5. Install FFmpeg
+
+FFmpeg is required for audio file conversion. Install FFmpeg using the following command:
+
+```bash
+sudo apt-get install ffmpeg
+
+```
+
 ## Converting and Transcribing Audio Files
 
 ### Prepare Your Audio File
