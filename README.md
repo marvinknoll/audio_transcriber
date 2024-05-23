@@ -12,6 +12,8 @@ Clone the whisper repository from GitHub:
 git clone https://github.com/ggerganov/whisper.cpp.git
 ```
 
+Follow installation instructions from: https://github.com/ggerganov/whisper.cpp?tab=readme-ov-file#quick-start
+
 ### 2. Clone This Repository
 
 Clone the audio transcriber repository:
